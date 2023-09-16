@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+ <title>picsstock</title>
+        <meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<meta name="description" content="Stock of photos of village.">
+		<link rel="stylesheet" type="text/css"href="saab.css"/>
+	<u><i><h1 style="text-align:center;"></h1></i></u>
+	<img style="width:50%;" src="https://upload.wikimedia.org/wikipedia/commons/4/44/CHEWDARA_.jpg"><img style="width:50%;" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Syed_Ali_Alaa_Ud_Din_%28Khansahib%29_Bukhari.jpg">
+	<img style="width:50%;" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Masjid_shareef.jpg"><img style="width:50%;" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Baba_Nasib_Ud_Din_ghazi_Shrine_in_Chewdara_Beerwah.jpg">
+	<img style="width:50%;" src="">
+	<img style="width:100%;" src="">
+	<img style="width:100%;" src="">
+	<img style="width:100%;" src="">
+	<img style="width:100%;" src="">
+	<img style="width:100%;" src="">
+	<img style="width:100%;" src="">
+	</body>
+	</html>
